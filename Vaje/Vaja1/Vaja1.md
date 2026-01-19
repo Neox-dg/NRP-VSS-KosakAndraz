@@ -1,4 +1,4 @@
-﻿# NeoFlow
+﻿# BurnAway
 
 ## Problem
 Izgorelost v IT je kronični stres zaradi preobremenitve, dolgega dela, pritiskov in pomanjkanja ravnotežja. Vodi do izčrpanosti, cinizma, zmanjšane produktivnosti, zdravstvenih težav in odhodov zaposlenih. V IT je pogostejša zaradi hitrega tempa, stalnih sprememb in digitalne preobremenitve.
