@@ -45,3 +45,11 @@ Rešuje izgorelost z merjenjem miselne obremenitve (točke 1-10), avtomatskim ra
 
 ### Zakaj je rešitev boljša od obstoječih alternativ
 Boljša od Reclaim.ai, Sunsama, Motion: Eksplicitne miselne točke (ne samo ure / prioritete), avto-pavze z razteznimi vajami, recording + Markdown povzetki (ni v alternativah), promocija zdravega življenja.
+
+## Analiza trga
+- Trg produktivnostnih aplikacij in programske opreme za upravljanje časa je v letu 2025 vreden približno 77-82 milijard USD, z napovedano rastjo na 95-222 milijard USD do 2033 (CAGR 2,3-14,14 %). Podtrg za sledenje času in nalogam raste hitreje, z vrednostjo 6-8 milijard USD v 2025, do 11-30 milijard USD do 2033 (CAGR 13-17 %).
+    - skyquest.com, snsinsider.com, straitresearch.com
+- Podatki o izgorelosti: V 2025 prizadene 66 % zaposlenih globalno, z višjimi stopnjami med mladimi (81-83 %) in oddaljenimi/delno oddaljenimi delavci (63-69 %). Stroški izgorelosti: 322-438 milijard USD letno v izgubljeni produktivnosti in zdravstvenih izdatkih.
+    - teamout.com, forbes.com, gallup.com, blog.theinterviewguys.com
+- Problem je tržno zanimiv zaradi rastočega oddaljenega dela (po COVID-19), kjer izgorelost narašča (45 % stres pri oddaljenih delavcih), in povpraševanja po orodjih za mentalno obremenitev, avto-pavze in zdravje, ki jih obstoječi (npr. Reclaim.ai) ne naslavljajo v celoti. Rast trga kaže na priložnost za inovacije, ki zmanjšujejo stroške in povečujejo zadržanje zaposlenih.
+    - gallup.com, apollotechnical.com
